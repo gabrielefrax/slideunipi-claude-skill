@@ -1,0 +1,60 @@
+{
+  "v": 4,
+  "createdOnFiles": {
+    "v": 1,
+    "at": "2026-11-11T12:00:00Z"
+  },
+  "lists": "css",
+  "title": "Pacchetto slide stile UniPI",
+  "cover": "cover",
+  "order": [
+    "cover-foto",
+    "cover-foto-due-nomi",
+    "cover",
+    "sezione-foto",
+    "sezione",
+    "testo-chiaro-griglia",
+    "testo-chiaro",
+    "testo-scuro-griglia",
+    "testo-scuro",
+    "testo-semplice-chiaro",
+    "testo-semplice-scuro",
+    "elenco-chiaro",
+    "elenco-scuro",
+    "indice",
+    "testo-immagine-a",
+    "testo-immagine-b",
+    "immagini-1",
+    "immagini-2",
+    "immagini-3",
+    "tabella",
+    "team",
+    "contatti-foto",
+    "chiusura"
+  ],
+  "sections": {
+    "s1": {
+      "description": "Cover e pagine divisorie.",
+      "start": "cover-foto"
+    },
+    "s2": {
+      "description": "Pagine di testo e immagini.",
+      "start": "testo-chiaro-griglia"
+    },
+    "s3": {
+      "description": "Immagini, tabella, team, contatti, chiusura.",
+      "start": "immagini-1"
+    }
+  },
+  "faces": {
+    "inter": {
+      "family": "Inter",
+      "href": "https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap"
+    },
+    "titillium-web": {
+      "family": "Titillium Web",
+      "href": "https://fonts.googleapis.com/css2?family=Titillium+Web:wght@400;600;700&display=swap"
+    }
+  },
+  "designSystems": []
+}
